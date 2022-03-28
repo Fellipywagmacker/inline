@@ -1,8 +1,18 @@
 body{
-    background-color:dimgrey;
-    font-family: Arial, Arial, Helvetica, sans-serif;
+    background-color:blue;
 }
+
 h1{
-    color:aliceblue;
+    color:red;
+
+}
+
+h2{
+    color:red;
+
+}
+
+p{
+    color:red;
 
 }
